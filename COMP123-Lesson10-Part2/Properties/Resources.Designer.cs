@@ -61,6 +61,60 @@ namespace COMP123_Lesson10_Part2.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Back.
+        /// </summary>
+        internal static string BackButtonStringE {
+            get {
+                return ResourceManager.GetString("BackButtonStringE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Atras.
+        /// </summary>
+        internal static string BackButtonStringS {
+            get {
+                return ResourceManager.GetString("BackButtonStringS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to English.
+        /// </summary>
+        internal static string EngilshRadioButtonE {
+            get {
+                return ResourceManager.GetString("EngilshRadioButtonE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ingles.
+        /// </summary>
+        internal static string EngilshRadioButtonS {
+            get {
+                return ResourceManager.GetString("EngilshRadioButtonS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Select Language.
+        /// </summary>
+        internal static string GroupBoxStringE {
+            get {
+                return ResourceManager.GetString("GroupBoxStringE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Seleccionar Idioma.
+        /// </summary>
+        internal static string GroupBoxStringS {
+            get {
+                return ResourceManager.GetString("GroupBoxStringS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Next.
         /// </summary>
         internal static string NextButtonStringE {
@@ -75,6 +129,42 @@ namespace COMP123_Lesson10_Part2.Properties {
         internal static string NextButtonStringS {
             get {
                 return ResourceManager.GetString("NextButtonStringS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Spanish.
+        /// </summary>
+        internal static string SpanishRadioButtonE {
+            get {
+                return ResourceManager.GetString("SpanishRadioButtonE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Espanol.
+        /// </summary>
+        internal static string SpanishRadioButtonS1 {
+            get {
+                return ResourceManager.GetString("SpanishRadioButtonS1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Image Gallery.
+        /// </summary>
+        internal static string TitleBarStringE {
+            get {
+                return ResourceManager.GetString("TitleBarStringE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Galeria de Imagenes.
+        /// </summary>
+        internal static string TitleBarStringS {
+            get {
+                return ResourceManager.GetString("TitleBarStringS", resourceCulture);
             }
         }
         

@@ -16,7 +16,7 @@ namespace COMP123_Lesson10_Part2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new NewForm());
+            Application.Run(new GalleryForm());
         }
     }
 }
